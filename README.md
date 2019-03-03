@@ -1,8 +1,8 @@
 # Mo3taSummary
-simple app to summary your project code 
+simple app to summary your project code, now it runs only on windows soon ISA will be support linux. 
 
 
-# How to use : 
+# How to use (Windows machines): 
  - open folder 
     - ![](folder.JPG)
  - run Mo3taSummary.exe 
