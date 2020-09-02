@@ -1,5 +1,5 @@
 # Mo3taSummary  [![HitCount](http://hits.dwyl.io/MahmoudMabrok/Mo3taSummary.svg)](http://hits.dwyl.io/MahmoudMabrok/Mo3taSummary)
- - simple app to summary your project code
+ - simple app to Analysis your project code. 
  - it walk through your project, caluclate lines of code, print total count.
 
 
