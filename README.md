@@ -9,6 +9,7 @@
  - install dependencies by ``` pip install requirements.txt  ``` 
  - then ``` py Mo3taSummary.py  ```
  - let`s have fun
+
 **hint**: to paste your path, right click on window bar -> edit -> paste.
 
 
